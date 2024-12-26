@@ -1,0 +1,33 @@
+.band-carousel {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .band-option {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .band-option img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .band-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* ... other band-specific styles */

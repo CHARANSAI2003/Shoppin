@@ -1,0 +1,25 @@
+.case-selection {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .case {
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .case img {
+    max-width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .case-info {
+    text-align: center;
+  }
+  
+  /* ... other case-specific styles */
