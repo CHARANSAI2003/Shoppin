@@ -1,0 +1,4 @@
+example.com
+anotherexample.com
+bigecommerce.com
+...

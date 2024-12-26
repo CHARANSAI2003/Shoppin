@@ -1,0 +1,9 @@
+# Discovered Product URLs
+
+## example.com
+https://example.com/product/123
+https://example.com/item/456
+
+## anotherexample.com
+https://anotherexample.com/p/789
+https://anotherexample.com/product/001
